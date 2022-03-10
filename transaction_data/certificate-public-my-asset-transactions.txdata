@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "certificatePublicMyAssetExists",
+        "transactionLabel": "A test certificatePublicMyAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCertificatePublicMyAsset",
+        "transactionLabel": "A test createCertificatePublicMyAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCertificatePublicMyAsset",
+        "transactionLabel": "A test readCertificatePublicMyAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCertificatePublicMyAsset",
+        "transactionLabel": "A test updateCertificatePublicMyAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCertificatePublicMyAsset",
+        "transactionLabel": "A test deleteCertificatePublicMyAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
